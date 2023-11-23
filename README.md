@@ -1,0 +1,1 @@
+# Assets repository for my flutter application project
